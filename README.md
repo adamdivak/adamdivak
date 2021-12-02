@@ -15,7 +15,7 @@ I am currently enrolled in the [Udacity Self-Driving Car Engineer Nanodegree](ht
   - [udacity_sd_advanced_lanes_cv](https://github.com/yosuah/udacity_sd_advanced_lanes_cv) - Advanced lane detection using traditional CV algorithms. Calibration, birds-eye view perspective transformation, sliding windows based lane finding and temporal tracking
   - [udacity_sd_basic_lanes_cv](https://github.com/yosuah/udacity_sd_basic_lanes_cv) - Basic lane detection using traditional CV algorithms. Thresholding, Canny edge detection, line clustering using DBSCAN, ego lane separator selection and visualization
 - **Sensor fusion**
-  - [udacity_sd_lidar_fusion](https://github.com/yosuah/udacity_sd_lidar_fusion) - Lidar-camera fusion with data association and object tracking using EKF (coming soon)
+  - [udacity_sd_lidar_fusion](https://github.com/yosuah/udacity_sd_lidar_fusion) - Lidar-camera fusion with data association, track management and object tracking using an Extended Kalman Filter
 - **Localization**
   - (coming soon)
 - **Planning and Control**
