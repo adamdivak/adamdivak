@@ -1,12 +1,12 @@
 ### Hi, I'm Adam,
 
-I develop software in C++ and Python, reseach planning and prediction solutions for self-driving vehicles, and lead engineering teams. Most recently I have worked on significantly improving the highway autopilot system of AImotive. 
+I study AI, develop software in C++ and Python, and lead engineering teams. Most recently I have worked on the prediction module of the highway autopilot system of BMW. Prior to that I led autonomous driving development at AImotive (owned by Stellantis group now), ran a small startup, and created a conference administration system.
 
-I am currently open to new opportunities, check out my [CV](https://drive.google.com/file/d/1tvIknpUDykpwrTblMxDeawGgSM3IJsZP/view?usp=sharing) or [LinkedIn](https://www.linkedin.com/in/adamdivak/) if my experience sounds relevant.
+Currently I focus on studying AI full time at the University of Amsterdam. Check out my [CV](https://drive.google.com/file/d/1tvIknpUDykpwrTblMxDeawGgSM3IJsZP/view?usp=sharing) or [LinkedIn](https://www.linkedin.com/in/adamdivak/) for more information.
 
 ### Public projects
 
-I am currently enrolled in the [Udacity Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013). Projects in the course cover all major parts of a self-driving software:
+I did the [Udacity Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013). Projects in the course cover all major parts of a self-driving software, some of which are here:
 
 - **Detection**
   - [udacity_sd_lidar_fusion](https://github.com/yosuah/udacity_sd_lidar_fusion) - Lidar 3D object detection using FPN ResNet, Darknet and Tensorflow in the Waymo Open Data Set
