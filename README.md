@@ -1,6 +1,6 @@
 ### Hi, I'm Adam,
 
-I study AI, develop software in C++ and Python, and lead engineering teams. Most recently I have worked on the prediction module of the highway autopilot system of BMW. Prior to that I led autonomous driving development at AImotive (owned by Stellantis group now), ran a small startup, and created a conference administration system.
+I make sense of AI algorithms, develop software in C++ and Python, and lead engineering teams. Most recently I have worked on the prediction module of the highway autopilot system of [BMW](https://www.bmwgroup.com/en/innovation/automated-driving.html). Prior to that I led autonomous driving development at [AImotive](https://aimotive.com/) (owned by [Stellantis](https://www.stellantis.com/en) now), ran a small startup, and created a conference administration system.
 
 Currently I focus on studying AI full time at the University of Amsterdam. Check out my [CV](https://drive.google.com/file/d/1tvIknpUDykpwrTblMxDeawGgSM3IJsZP/view?usp=sharing) or [LinkedIn](https://www.linkedin.com/in/adamdivak/) for more information.
 
