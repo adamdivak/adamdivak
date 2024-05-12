@@ -2,7 +2,7 @@
 
 I develop software in C++ and Python, reseach planning and prediction solutions for self-driving vehicles, and lead engineering teams. Most recently I have worked on significantly improving the highway autopilot system of AImotive. 
 
-I am currently open to new opportunities, check out my [CV](https://bit.ly/3EehTTx) or [LinkedIn](https://www.linkedin.com/in/adamdivak/) if my experience sounds relevant.
+I am currently open to new opportunities, check out my [CV]([https://bit.ly/3EehTTx](https://drive.google.com/file/d/1tvIknpUDykpwrTblMxDeawGgSM3IJsZP/view?usp=sharing)) or [LinkedIn](https://www.linkedin.com/in/adamdivak/) if my experience sounds relevant.
 
 ### Public projects
 
