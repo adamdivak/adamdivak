@@ -8,8 +8,8 @@ Currently I focus on studying AI full time at the University of Amsterdam. Check
 
 #### Academic projects
 - **On the reproducibility of: "Learning Perturbation to Explain Time Series Predictions"** - Learning better perturbations for explaining time series ([repo](https://github.com/adamdivak/time_interpret/tree/main), [publication](https://openreview.net/forum?id=nPZgtpfgIx))
-- **(Even More) Efficient Equivariant Transfer Learning from Pretrained Models** - Exploring ways to introduce equivariance into large foundation models trained without it ([repo](https://github.com/adamdivak/equivariant_transfer_learning))
-- **Improving novel view synthesis of 3D Gaussian splats using 2D image enhancement methods** - Evaluating the option of using diffusions models to improve the results of incorrect images from 3D Gaussian splatting ([repo](https://github.com/adamdivak/diffusion_augmented_pixelsplat/blob/main/README.md))
+- **(Even More) Efficient Equivariant Transfer Learning from Pretrained Models** - Exploring ways to introduce equivariance into large foundation models trained without it ([repo](https://github.com/adamdivak/equivariant_transfer_learning), [article](https://github.com/adamdivak/equivariant_transfer_learning/blob/main/Blogpost.md)
+- **Improving novel view synthesis of 3D Gaussian splats using 2D image enhancement methods** - Evaluating the option of using diffusions models to improve the results of incorrect images from 3D Gaussian splatting ([repo](https://github.com/adamdivak/diffusion_augmented_pixelsplat/blob/main/README.md), [article](https://github.com/adamdivak/diffusion_augmented_pixelsplat/blob/main/CV2_Diffusion3DGS_Bant_Divak_Eppink_Feng_Hutter.pdf)
 
 #### MOOC
 I did the [Udacity Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013). Projects in the course cover all major parts of a self-driving software, some of which are here:
