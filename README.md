@@ -17,7 +17,7 @@ Currently I focus on studying AI full time at the University of Amsterdam. Check
 | [<img src="images/ts_perturbation_repro_thumbnail.png" width="250"/>](https://github.com/adamdivak/time_interpret/tree/main) | [<img src="images/Assessing_Expertise_Overlap_in_MoE_models_poster_thumbnail.png" width="250"/>](images/Assessing_Expertise_Overlap_in_MoE_models_poster.jpg) | [<img src="images/equivariant_finetuning_thumbnail.png" width="250"/>](https://github.com/adamdivak/equivariant_transfer_learning) | [<img src="images/pixelsplat_diffusion_thumbnail.png" width="250"/>](https://github.com/adamdivak/diffusion_augmented_pixelsplat) |
 
 #### MOOC
-I did the [Udacity Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013). Projects in the course cover all major parts of a self-driving software, some of which are here:
+I followed the [Udacity Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013). Projects in the course cover all major parts of a self-driving software, some of which are here:
 
 - **Planning** - Basic behavior and motion planning tested in Carla. State machine-based behavior planning, motion planning using cubic spirals, velocity profile generation and cost-function based trajectory selection with static collision checking ([repo](https://github.com/yosuah/udacity_sd_planning))
 - **Control** - Control and trajectory tracking for AVs tested in Carla. Implementing separate PID controllers for throttle and steering, controller parameter tuning using the twiddle algorithm, and some fixes to the original planner and simulator client ([repo](https://github.com/yosuah/udacity_sd_control))
